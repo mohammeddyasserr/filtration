@@ -1,0 +1,3 @@
+rclpy --> ROS 2 Python client library (comes with ROS 2, no pip install needed)
+std_msgs --> ROS 2 message types (also part of ROS 2, not installed via pip)
+matplotlib (3.0) --> for plotting
